@@ -1,5 +1,5 @@
 # Chatfilter-ChatLogs-Bombsquad
-This is ChatFilter Mod for BombSquad 
+This is ChatFilter Mod for BombSquad!
 You need to have both files ChatFilter.py and ChatFilterConfig.py
 put both files in script folder of your server files and add "import ChatFilter" 
 in bsUI.py file at the end line(*not on top of file*) of same script folder without quotation mark.
